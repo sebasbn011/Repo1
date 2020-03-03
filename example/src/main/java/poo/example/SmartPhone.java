@@ -13,8 +13,11 @@ public class SmartPhone extends Celular{
 		this.pixelesCamara = pixelesCamara;
 		this.tamanioMemoriaInterna = tamanioMemoriaRam;
 		this.tamanioMemoriaExterna = tamaoDisco;
+
 		
 		//Cambios en constructor local de smartphone para conflictos
+		//Cambios en constructor de smartphone para conflictos 
+
 	}
 	// método sobrescrito (override), utilizo código de la clase Celular y añado código que necesito 
 	@Override
